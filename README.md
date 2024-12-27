@@ -1,4 +1,25 @@
-## Hi there 👋
+<h1>Hi, I'm Tolu <br/><a href="https://github.com/ToluShitu">Data Analyst</a>
+
+<h2>📊 Data Analytics Projects:</h2>
+
+- <b>Tableau</b>
+  - [Interactive Dashboard using Tableau](https://public.tableau.com/app/profile/toluwalase.shitu/viz/AnAnalysisofmoviesbetween2000-2017basedonpopularityandrevenueearned/Sheet1)
+
+- <b>SQL</b>
+  - [Data Cleaning Projects ](https://github.com/ToluShitu/SQL_Projects)
+
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+
+<h2> 📑 Certifications</h2>
+
+- [Cisco Data Analytics Essentials](https://www.credly.com/badges/cab6ca90-095f-45d9-b03c-8e7e06f9620a/public_url)
+
+
+<h2> 🤳 Connect with me:</h2>
+- [linkedin](https://www.linkedin.com/in/t0lu) 
+
 
 <!--
 **ToluShitu/ToluShitu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
