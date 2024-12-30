@@ -8,8 +8,6 @@
 - <b>SQL</b>
   - [Data Cleaning Projects ](https://github.com/ToluShitu/SQL_Projects)
 
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
 <h2> 📑 Certifications</h2>
