@@ -5,8 +5,8 @@
 - <b>Tableau</b>
   - [Interactive Dashboard using Tableau](https://public.tableau.com/app/profile/toluwalase.shitu/viz/AnAnalysisofmoviesbetween2000-2017basedonpopularityandrevenueearned/Sheet1)
 
-- <b>SQL</b>
-  - [Data Cleaning Projects ](https://github.com/ToluShitu/SQL_Projects)
+- <b>SPSS</b>
+  - [Statistical Analysis](https://github.com/ToluShitu/SPSS-Projects)
 
 
 
