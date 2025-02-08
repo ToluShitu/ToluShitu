@@ -7,6 +7,9 @@
 
 - <b>SPSS</b>
   - [Statistical Analysis](https://github.com/ToluShitu/SPSS-Projects)
+ 
+- <b>SQL</b>
+  - [Data Manipulation and Definition](https://github.com/ToluShitu/SQL-Projects)
 
 
 
