@@ -4,7 +4,7 @@
 
 - <b>Tableau</b>
   - [Interactive Dashboard using Tableau](https://public.tableau.com/app/profile/toluwalase.shitu/viz/AnAnalysisofmoviesbetween2000-2017basedonpopularityandrevenueearned/Sheet1)
-  - [Analysis of sales and cost data](https://github.com/Paultaiwo934/Analysis-of-sales-and-cost-data-for-a-global-bike-manufacturer)
+  - [Analysis of sales and cost data](https://github.com/ToluShitu/Analysis-of-sales-and-cost-data-for-a-global-bike-manufacturer)
 
 - <b>SPSS</b>
   - [Statistical Analysis](https://github.com/ToluShitu/SPSS-Projects)
